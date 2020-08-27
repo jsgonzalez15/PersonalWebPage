@@ -1,9 +1,62 @@
 h6.whiteMenu{
     color: white;
 }
+h5.bold{
+    font-weight: bold;
+    color:rgb(9,21,64);;
+}
 div.firstBanner{
-    background-color: aquamarine;
+    background-color: rgb(171, 210, 250);
+}
+div.text{
+    background-color: rgb(33, 161, 121);
+    padding: 2%;
+}
+div.secondtext{
+    background-color: rgb(240, 162, 2);
+    padding: 2%;
+}
+h1.whitetitle{
+    color: white;
+    font-weight: 400;
+    align-self: center;
 }
 div.profileBanner{
-    background-color: rgb(66, 92, 240);
+    background-color: rgb(27, 44, 193);
 }
+div.academicStyle{
+    background-color: rgb(9,21,64);;
+}
+h3.blackMessage{
+    color:black;
+    font-weight: 400;
+}
+h5.hopes{
+    color:rgb(9,21,64);
+    font-style: oblique;
+}
+h5.personalDescription{
+    color:rgb(9,21,64);
+    font-style: oblique;
+    padding-inline-start: 3%;
+    padding-top: 1%;
+
+}
+h6.type{
+    font-weight: 800;
+}
+h3.whitefrase{
+    color:white;
+    font-weight: 300;
+    font-style: oblique;
+}
+ul.academic {
+    list-style-type: none;
+    padding: 0;
+    border: 1px solid #ddd;
+  }
+  ul.academic li {
+    padding: 8px 16px;
+    border-bottom: 1px solid #ddd;
+    color: white;
+  }
